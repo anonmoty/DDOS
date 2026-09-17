@@ -7,8 +7,22 @@
 
 EXAMPLE 
 
+```bash
+termux-setup-storage
+apt update 
 
+apt upgrade -y
+pkg install git -y
+pkg install python -y
+pip install requests 
+pip install colorama 
 
+git clone https://github.com/anonmoty/DDOS.git
+cd DDOS
+
+ls
+
+```
 
 Run:
 
